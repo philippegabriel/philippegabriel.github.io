@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/philippegabriel/philippegabriel.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/philippegabriel/philippegabriel.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Projects
+### Projects releated to my work with XenServer at Citrix
+- [Jira Mining scripts](https://github.com/philippegabriel/jira) A set of scripts data mining Jira, through the JQL and SQL apis and rendering the content via gnupplot
+- [Git mining code churn and defect density](https://github.com/philippegabriel/XSCodeChurn) data mining the git log of repos constituting the XenServer software, to find generate code churn and defetc density metrics
+- [Documenting SCM branches with graphviz](https://github.com/philippegabriel/XFormerBranchGraph) 
+- [Slackbot, publishing JIRA metrics retrived through the SQL api](https://github.com/philippegabriel/slackbot)
+- [Defect density stats for the Xen hypervisor security advisories](https://github.com/philippegabriel/xsastats)
+- [Scripts to manage an LXR server](https://github.com/philippegabriel/lxr_scripts)
+### Other projects
+- [Symbolican, fuzz testing on AWS EC2 clusters](https://github.com/philippegabriel/symbolican)
+- [A LISP interpreter, in intrinsic MAKE functions](https://github.com/philippegabriel/make-lib)
+- [Geotagged picture gallery, using Google Map API](https://github.com/philippegabriel/geotag)
